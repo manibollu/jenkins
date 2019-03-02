@@ -23,18 +23,19 @@
 # Registers:
 
 # File marks:
-'0  9  10  ~/newec2.yml
-'1  1  0  ~/vpcec2.yml
-'2  349  0  ~/newec2.yml
-'3  46  0  ~/vpcec2.yml
-'4  356  22  ~/newec2.yml
-'5  398  0  ~/newec2.yml
-'6  610  0  ~/newec2.yml
-'7  11  10  ~/vpcec2.yml
-'8  43  22  ~/vpcec2.yml
-'9  9  0  ~/ec2.yml
+'0  1  7  ~/test
+'1  9  10  ~/newec2.yml
+'2  1  0  ~/vpcec2.yml
+'3  349  0  ~/newec2.yml
+'4  46  0  ~/vpcec2.yml
+'5  356  22  ~/newec2.yml
+'6  398  0  ~/newec2.yml
+'7  610  0  ~/newec2.yml
+'8  11  10  ~/vpcec2.yml
+'9  43  22  ~/vpcec2.yml
 
 # Jumplist (newest first):
+-'  1  7  ~/test
 -'  9  10  ~/newec2.yml
 -'  1  0  ~/newec2.yml
 -'  1  0  ~/vpcec2.yml
@@ -132,9 +133,14 @@
 -'  1  0  ~/policy.json
 -'  25  44  ~/policy.json
 -'  24  44  ~/policy.json
--'  1  0  ~/policy.json
 
 # History of marks within files (newest to oldest):
+
+> ~/test
+	"	1	7
+	^	1	8
+	.	1	7
+	+	1	7
 
 > ~/newec2.yml
 	"	9	10
