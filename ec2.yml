@@ -1,5 +1,5 @@
 ---
-Resources:
+Resources: prudhvi added this
   EC2Instance:
     Type: AWS::EC2::Instance
     Properties:
